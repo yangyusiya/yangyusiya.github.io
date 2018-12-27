@@ -1,0 +1,4 @@
+[{"img":"img/banner1.png","desc":"拉勾网图片"},
+{"img":"img/banner2.png","desc":"拉勾网图片"},
+{"img":"img/banner3.png","desc":"拉勾网图片"},
+{"img":"img/banner4.png","desc":"拉勾网图片"}]
